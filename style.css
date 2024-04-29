@@ -1,0 +1,7 @@
+@font-face{
+  font-family:"salami";
+  src: url(fonts/OldStandardTT-Regular.ttf);
+}
+p{
+  font-family:"salami";
+}
